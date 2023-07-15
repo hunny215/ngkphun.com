@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'Cherolina';
+    src: url('Cherolina.eot');
+    src: url('Cherolina.eot?#iefix') format('embedded-opentype'),
+        url('Cherolina.woff2') format('woff2'),
+        url('Cherolina.woff') format('woff'),
+        url('Cherolina.ttf') format('truetype'),
+        url('Cherolina.svg#Cherolina') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Family';
+    src: url('FamilyRegular_1.eot');
+    src: url('FamilyRegular_1.eot?#iefix') format('embedded-opentype'),
+        url('FamilyRegular_1.woff2') format('woff2'),
+        url('FamilyRegular_1.woff') format('woff'),
+        url('FamilyRegular_1.ttf') format('truetype'),
+        url('FamilyRegular_1.svg#FamilyRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'iCiel Brittany Signature';
+    src: url('iCielBrittanySignature-Regular.eot');
+    src: url('iCielBrittanySignature-Regular.eot?#iefix') format('embedded-opentype'),
+        url('iCielBrittanySignature-Regular.woff2') format('woff2'),
+        url('iCielBrittanySignature-Regular.woff') format('woff'),
+        url('iCielBrittanySignature-Regular.ttf') format('truetype'),
+        url('iCielBrittanySignature-Regular.svg#iCielBrittanySignature-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'iCiel Brittany Signature';
+    src: url('iCielBrittanySignature-Regular.eot');
+    src: url('iCielBrittanySignature-Regular.eot?#iefix') format('embedded-opentype'),
+        url('iCielBrittanySignature-Regular.woff2') format('woff2'),
+        url('iCielBrittanySignature-Regular.woff') format('woff'),
+        url('iCielBrittanySignature-Regular.ttf') format('truetype'),
+        url('iCielBrittanySignature-Regular.svg#iCielBrittanySignature-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
